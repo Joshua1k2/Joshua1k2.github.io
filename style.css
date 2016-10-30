@@ -1,0 +1,21 @@
+
+img {
+    width: 200px;
+}
+
+body {
+     background-image: url("https://pbs.twimg.com/media/Cg2iX5uWMAAuDWg.png");
+    background-color: #cccccc;
+background-size:1500px ;
+   
+    text-align: center;
+    font-family: "Arial";
+       color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+
